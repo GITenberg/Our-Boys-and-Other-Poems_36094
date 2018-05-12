@@ -1,0 +1,27 @@
+_repo: Our-Boys-and-Other-Poems_36094
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strang, Alan L.
+    birthdate: 1908
+    deathdate: 1919
+    gutenberg_agent_id: '38078'
+    url: http://www.gutenberg.org/2009/agents/38078
+description: ''
+gutenberg_issued: '2011-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcc 'PS'
+- !lcsh 'American poetry'
+title: Our Boys, and Other Poems
+url: http://www.gutenberg.org/ebooks/36094
